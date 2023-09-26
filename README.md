@@ -2,7 +2,7 @@
 
 Rank 01 -> [Libft](https://github.com/bavba/42_School/tree/main/Common_Core/Rank_00/libft)
 
-Rank 02 -> Printf,GetNextLine & Born2beRoot
+Rank 02 -> Printf, GetNextLine & Born2beRoot
 
 Rank 03 -> Push Swap, Pipex, Fract'ol & Minitalk
 
