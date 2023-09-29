@@ -2,7 +2,7 @@
 
 Tech Stack:
 	
-	Languages: C & C++.
+	Languages: Bash, C, C++ & Makefile.
 
 Rank 01 -> [Libft](https://github.com/bavba/42_School/tree/main/Common_Core/Rank_00/libft)
 
