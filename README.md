@@ -18,6 +18,8 @@ Rank 06 -> [CPP_Mod05](https://github.com/bavba/42_School/tree/main/Common_Core/
 
 Rank 07 -> [Ft_transcendence](https://github.com/bavba/42_School/tree/main/Common_Core/Rank_07/Ft_transcendence)
 
+___
+
 ### [Outer Core Projects:](https://github.com/bavba/42_School/tree/main/Outer_Core/)
 
 Tech Stack:
@@ -32,6 +34,7 @@ DevOps -> [Taskmaster](https://github.com/bavba/42_School/tree/main/Outer_Core/D
 
 Cryptography & Maths -> [Rt](https://github.com/bavba/42_School/tree/main/Outer_Core/Cryptography_and_Maths/Rt), [Ft_ssl_md5](https://github.com/bavba/42_School/tree/main/Outer_Core/Cryptography_and_Maths/Ft_ssl_md5), [Ft_ssl_des](https://github.com/bavba/42_School/tree/main/Outer_Core/Cryptography_and_Maths/Ft_ssl_des), [Ft_ssl_rsa](https://github.com/bavba/42_School/tree/main/Outer_Core/Cryptography_and_Maths/Ft_ssl_rsa), [Computor_v1](https://github.com/bavba/42_School/tree/main/Outer_Core/Cryptography_and_Maths/Computor_v1), [Computor_v2](https://github.com/bavba/42_School/tree/main/Outer_Core/Cryptography_and_Maths/Computor_v2), [Ready_set_boole](https://github.com/bavba/42_School/tree/main/Outer_Core/Cryptography_and_Maths/Ready_set_boole), [Matrix](https://github.com/bavba/42_School/tree/main/Outer_Core/Cryptography_and_Maths/Matrix), [Ft_kalman](https://github.com/bavba/42_School/tree/main/Outer_Core/Cryptography_and_Maths/Ft_Kalman).
 
+___
 
 ### [II Edition Cybersecurity Bootcamp Projects:](https://github.com/bavba/42_School/tree/main/Cybersecurity_bootcamp)
 
