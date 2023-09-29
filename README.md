@@ -6,7 +6,7 @@ Tech Stack:
 
 Rank 01 -> [Libft](https://github.com/bavba/42_School/tree/main/Common_Core/Rank_01/Libft)
 
-Rank 02 -> [Printf](https://github.com/bavba/42_School/tree/main/Common_Core/Rank_02/Printf),[GetNextLine](https://github.com/bavba/42_School/tree/main/Common_Core/Rank_02/GetNextLine) & [Born2beRoot]((https://github.com/bavba/42_School/tree/main/Common_Core/Rank_02/Born2beRoot)
+Rank 02 -> [Printf](https://github.com/bavba/42_School/tree/main/Common_Core/Rank_02/Printf),[GetNextLine](https://github.com/bavba/42_School/tree/main/Common_Core/Rank_02/GetNextLine) & [Born2beRoot](https://github.com/bavba/42_School/tree/main/Common_Core/Rank_02/Born2beRoot)
 
 Rank 03 -> [Push_swap](https://github.com/bavba/42_School/tree/main/Common_Core/Rank_03/Push_swap), [Pipex](https://github.com/bavba/42_School/tree/main/Common_Core/Rank_03/Pipex), [Fract'ol](https://github.com/bavba/42_School/tree/main/Common_Core/Rank_03/Fractol) & [Minitalk](https://github.com/bavba/42_School/tree/main/Common_Core/Rank_03/Minitalk)
 
@@ -16,15 +16,15 @@ Rank 05 -> [CPP_Mod00](https://github.com/bavba/42_School/tree/main/Common_Core/
 
 Rank 06 -> [CPP_Mod05](https://github.com/bavba/42_School/tree/main/Common_Core/Rank_06/CPP_Mod05)-[Mod06](https://github.com/bavba/42_School/tree/main/Common_Core/Rank_06/CPP_Mod06)-[Mod07](https://github.com/bavba/42_School/tree/main/Common_Core/Rank_06/CPP_Mod07)-[Mod08](https://github.com/bavba/42_School/tree/main/Common_Core/Rank_06/CPP_Mod08)-[Mod09](https://github.com/bavba/42_School/tree/main/Common_Core/Rank_06/CPP_mod09), [Ft_irc](https://github.com/bavba/42_School/tree/main/Common_Core/Rank_06/Ft_irc), [Inception](https://github.com/bavba/42_School/tree/main/Common_Core/Rank_06/Inception) & [Webserv](https://github.com/bavba/42_School/tree/main/Common_Core/Rank_06/Webserv) 
 
-Rank 07 -> [Ft_transcendence]((https://github.com/bavba/42_School/tree/main/Common_Core/Rank_07/Ft_transcendence)
+Rank 07 -> [Ft_transcendence](https://github.com/bavba/42_School/tree/main/Common_Core/Rank_07/Ft_transcendence)
 
-###[Outer Core Projects:](https://github.com/bavba/42_School/tree/main/Outer_Core/)
+### [Outer Core Projects:](https://github.com/bavba/42_School/tree/main/Outer_Core/)
 
 Tech Stack:
 	
 	Languages: Python.
 
-[Algo & AI Data](https://github.com/bavba/42_School/tree/main/Outer_Core/Algo_and_AI_Data) -> [Zappy](https://github.com/bavba/42_School/tree/main/Outer_Core/Algo_and_AI_Data/Zappy), [Corewar](https://github.com/bavba/42_School/tree/main/Outer_Core/Algo_and_AI_Data/Corewar),[Ft_linear_regression](https://github.com/bavba/42_School/tree/main/Outer_Core/Algo_and_AI_Data/Ft_linear_regression),[Dslr](https://github.com/bavba/42_School/tree/main/Outer_core/Algo_and_AI_Data/Dslr),[Multilayer_perceptron](https://github.com/bavba/42_School/tree/main/Outer_core/Algo_and_AI_Data/Multilayer_perceptron),[Total_perspective_vortex](https://github.com/bavba/42_School/tree/main/Outer_core/Algo_and_AI_Data/Total_perspective_vortex),[Leaffliction](https://github.com/bavba/42_School/tree/main/Outer_core/Algo_and_AI_Data/Leaffliction),[Lem_in](https://github.com/bavba/42_School/tree/main/Outer_core/Algo_and_AI_Data/Lem_in),[N_puzzle](https://github.com/bavba/42_School/tree/main/Outer_core/Algo_and_AI_Data/N_puzzle),[Rubik](https://github.com/bavba/42_School/tree/main/Outer_core/Algo_and_AI_Data/Rubik),[Gomoku](https://github.com/bavba/42_School/tree/main/Outer_core/Algo_and_AI_Data/Gokmoku),[Krpsim](https://github.com/bavba/42_School/tree/main/Outer_core/Algo_and_AI_Data/Krpsim),[Expert_system](https://github.com/bavba/42_School/tree/main/Outer_core/Algo_and_AI_Data/Expert_system).
+Algo & AI Data -> [Zappy](https://github.com/bavba/42_School/tree/main/Outer_Core/Algo_and_AI_Data/Zappy), [Corewar](https://github.com/bavba/42_School/tree/main/Outer_Core/Algo_and_AI_Data/Corewar), [Ft_linear_regression](https://github.com/bavba/42_School/tree/main/Outer_Core/Algo_and_AI_Data/Ft_linear_regression), [Dslr](https://github.com/bavba/42_School/tree/main/Outer_core/Algo_and_AI_Data/Dslr), [Multilayer_perceptron](https://github.com/bavba/42_School/tree/main/Outer_core/Algo_and_AI_Data/Multilayer_perceptron), [Total_perspective_vortex](https://github.com/bavba/42_School/tree/main/Outer_core/Algo_and_AI_Data/Total_perspective_vortex), [Leaffliction](https://github.com/bavba/42_School/tree/main/Outer_core/Algo_and_AI_Data/Leaffliction), [Lem_in](https://github.com/bavba/42_School/tree/main/Outer_core/Algo_and_AI_Data/Lem_in), [N_puzzle](https://github.com/bavba/42_School/tree/main/Outer_core/Algo_and_AI_Data/N_puzzle), [Rubik](https://github.com/bavba/42_School/tree/main/Outer_core/Algo_and_AI_Data/Rubik), [Gomoku](https://github.com/bavba/42_School/tree/main/Outer_core/Algo_and_AI_Data/Gokmoku), [Krpsim](https://github.com/bavba/42_School/tree/main/Outer_core/Algo_and_AI_Data/Krpsim), [Expert_system](https://github.com/bavba/42_School/tree/main/Outer_core/Algo_and_AI_Data/Expert_system).
 
 Security ->
 
