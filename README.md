@@ -1,5 +1,8 @@
 ### [Common Core Projects:](https://github.com/bavba/42_School/tree/main/Common_Core/)
 
+Tech Stack:
+	Languages: C & C++.
+
 Rank 01 -> [Libft](https://github.com/bavba/42_School/tree/main/Common_Core/Rank_00/libft)
 
 Rank 02 -> Printf, GetNextLine & Born2beRoot
@@ -16,6 +19,10 @@ Rank 07 -> Ft_trascendence
 
 
 ### [II Edition Cybersecurity Bootcamp Projects:](https://github.com/bavba/42_School/tree/main/Cybersecurity_bootcamp)
+
+Tech Stack:
+	Languages: C, Assembly & Python.
+	Environment: Docker & Vagrant.
 
 Web scraping & image metadata analysis -> [arachnida](https://github.com/bavba/42_School/tree/main/Cybersecurity_bootcamp/arachnida)
 
