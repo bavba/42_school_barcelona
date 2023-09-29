@@ -1,8 +1,10 @@
-### [Common Core Projects:](https://github.com/bavba/42_School/tree/main/Common_Core/)
+### [Common Core:](https://github.com/bavba/42_School/tree/main/Common_Core/)
 
 Tech Stack:
 	
 	Languages: Bash, C, C++ & Makefile.
+
+Projects:
 
 Rank 01 -> [Libft](https://github.com/bavba/42_School/tree/main/Common_Core/Rank_01/Libft)
 
@@ -20,11 +22,13 @@ Rank 07 -> [Ft_transcendence](https://github.com/bavba/42_School/tree/main/Commo
 
 ___
 
-### [Outer Core Projects:](https://github.com/bavba/42_School/tree/main/Outer_Core/)
+### [Outer Core:](https://github.com/bavba/42_School/tree/main/Outer_Core/)
 
 Tech Stack:
 	
 	Languages: Python.
+
+Projects:
 
 Algo & AI Data -> [Zappy](https://github.com/bavba/42_School/tree/main/Outer_Core/Algo_and_AI_Data/Zappy), [Corewar](https://github.com/bavba/42_School/tree/main/Outer_Core/Algo_and_AI_Data/Corewar), [Ft_linear_regression](https://github.com/bavba/42_School/tree/main/Outer_Core/Algo_and_AI_Data/Ft_linear_regression), [Dslr](https://github.com/bavba/42_School/tree/main/Outer_core/Algo_and_AI_Data/Dslr), [Multilayer_perceptron](https://github.com/bavba/42_School/tree/main/Outer_core/Algo_and_AI_Data/Multilayer_perceptron), [Total_perspective_vortex](https://github.com/bavba/42_School/tree/main/Outer_core/Algo_and_AI_Data/Total_perspective_vortex), [Leaffliction](https://github.com/bavba/42_School/tree/main/Outer_core/Algo_and_AI_Data/Leaffliction), [Lem_in](https://github.com/bavba/42_School/tree/main/Outer_core/Algo_and_AI_Data/Lem_in), [N_puzzle](https://github.com/bavba/42_School/tree/main/Outer_core/Algo_and_AI_Data/N_puzzle), [Rubik](https://github.com/bavba/42_School/tree/main/Outer_core/Algo_and_AI_Data/Rubik), [Gomoku](https://github.com/bavba/42_School/tree/main/Outer_core/Algo_and_AI_Data/Gokmoku), [Krpsim](https://github.com/bavba/42_School/tree/main/Outer_core/Algo_and_AI_Data/Krpsim) & [Expert_system](https://github.com/bavba/42_School/tree/main/Outer_core/Algo_and_AI_Data/Expert_system)
 
@@ -35,12 +39,14 @@ DevOps -> [Taskmaster](https://github.com/bavba/42_School/tree/main/Outer_Core/D
 Cryptography & Maths -> [Rt](https://github.com/bavba/42_School/tree/main/Outer_Core/Cryptography_and_Maths/Rt), [Ft_ssl_md5](https://github.com/bavba/42_School/tree/main/Outer_Core/Cryptography_and_Maths/Ft_ssl_md5), [Ft_ssl_des](https://github.com/bavba/42_School/tree/main/Outer_Core/Cryptography_and_Maths/Ft_ssl_des), [Ft_ssl_rsa](https://github.com/bavba/42_School/tree/main/Outer_Core/Cryptography_and_Maths/Ft_ssl_rsa), [Computor_v1](https://github.com/bavba/42_School/tree/main/Outer_Core/Cryptography_and_Maths/Computor_v1), [Computor_v2](https://github.com/bavba/42_School/tree/main/Outer_Core/Cryptography_and_Maths/Computor_v2), [Ready_set_boole](https://github.com/bavba/42_School/tree/main/Outer_Core/Cryptography_and_Maths/Ready_set_boole), [Matrix](https://github.com/bavba/42_School/tree/main/Outer_Core/Cryptography_and_Maths/Matrix) & [Ft_kalman](https://github.com/bavba/42_School/tree/main/Outer_Core/Cryptography_and_Maths/Ft_Kalman)
 ___
 
-### [II Edition Cybersecurity Bootcamp Projects:](https://github.com/bavba/42_School/tree/main/Cybersecurity_bootcamp)
+### [II Edition Cybersecurity Bootcamp:](https://github.com/bavba/42_School/tree/main/Cybersecurity_bootcamp)
 
 Tech Stack:
 	
 	Languages: C, Assembly & Python.
 	Environments: Docker & Vagrant.
+
+Projects:
 
 Web scraping & image metadata analysis -> [arachnida](https://github.com/bavba/42_School/tree/main/Cybersecurity_bootcamp/arachnida)
 
