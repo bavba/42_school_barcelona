@@ -40,7 +40,7 @@ ___
 Tech Stack:
 	
 	Languages: C, Assembly & Python.
-	Environment: Docker & Vagrant.
+	Environments: Docker & Vagrant.
 
 Web scraping & image metadata analysis -> [arachnida](https://github.com/bavba/42_School/tree/main/Cybersecurity_bootcamp/arachnida)
 
