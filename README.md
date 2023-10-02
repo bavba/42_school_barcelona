@@ -43,7 +43,7 @@ ___
 
 Tech Stack:
 	
-	Languages: C, Assembly & Python.
+	Languages: Assembly, C & Python.
 	Environments: Docker & Vagrant.
 
 Projects:
