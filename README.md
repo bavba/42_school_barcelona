@@ -10,7 +10,7 @@ Rank 01 -> [Libft](https://github.com/bavba/42_School/tree/main/Common_Core/Rank
 
 Rank 02 -> [Printf](https://github.com/bavba/42_School/tree/main/Common_Core/Rank_02/Printf), [GetNextLine](https://github.com/bavba/42_School/tree/main/Common_Core/Rank_02/GetNextLine) & [Born2beRoot](https://github.com/bavba/42_School/tree/main/Common_Core/Rank_02/Born2beRoot)
 
-Rank 03 -> [Push_swap](https://github.com/bavba/42_School/tree/main/Common_Core/Rank_03/Push_swap), [Pipex](https://github.com/bavba/42_School/tree/main/Common_Core/Rank_03/Pipex), [Fract'ol](https://github.com/bavba/42_School/tree/main/Common_Core/Rank_03/Fractol) & [Minitalk](https://github.com/bavba/42_School/tree/main/Common_Core/Rank_03/Minitalk)
+Rank 03 -> [Push_swap](https://github.com/bavba/42_School/tree/main/Common_Core/Rank_03/Push_swap), [Pipex](https://github.com/bavba/42_School/tree/main/Common_Core/Rank_03/Pipex) & [Fract'ol](https://github.com/bavba/42_School/tree/main/Common_Core/Rank_03/Fractol)
 
 Rank 04 -> [Minishell](https://github.com/bavba/42_School/tree/main/Common_Core/Rank_04/Minishell) & [Philosophers](https://github.com/bavba/42_School/tree/main/Common_Core/Rank_04/Philosophers)
 
