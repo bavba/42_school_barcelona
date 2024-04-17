@@ -7,7 +7,6 @@
 #include <unistd.h>
 #include <fcntl.h>
 
-// function to log test results.
 void	log_test_result(const char *test_name, bool passed, size_t expected, size_t result)
 {
 	FILE	*log_file = fopen("libft_test_results.log", "a");

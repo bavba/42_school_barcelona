@@ -1,0 +1,18 @@
+# -*- mode: ruby -*-
+# vi: set ft=ruby :
+
+Vagrant.configure("2") do |config|
+    config.vm.define "windows10" do |node|
+      node.vm.box = "gusztavvargadr/windows-10"
+      node.vm.box_version = "21.06.08"
+      node.vm.network "private_network", type: "dhcp"
+      node.vm.provider "virtualbox" do |vb|
+        vb.name = "Windows10"
+        vb.gui = true # Set to false if you want a headless VM
+        vb.memory = "2048"
+        vb.cpus = 2
+      end
+      node.vm.provision "shell", path: "provision_script.ps1"
+    end
+  end
+  
